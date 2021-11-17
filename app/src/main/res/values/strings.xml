@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProActivity</string>
+    <string name="click">click</string>
+
+    <string-array name="spinneritems">
+        <item>Custom broadcast receiver</item>
+        <item>Wifi RTT state change receiver</item>
+        <item>System battery notification receiver</item>
+    </string-array>
+</resources>
