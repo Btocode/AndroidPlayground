@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
         }
         else{
             intent = new Intent(this, LastActivity.class);
-            intent.putExtra("opt","opt3");
             startActivity(intent);
         }
 
